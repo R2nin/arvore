@@ -20,9 +20,9 @@
 3. Visualizacao clara da estrutura da arvore
 
 
-<h1> Teoria de Arvores<h1>
+<h1> Teoria de Arvores</h1>
 
-ipos de Árvores Binárias
+Tipos de Árvores Binárias
 1. Árvore Binária de Busca (ABB)
 Em uma árvore binária de busca, para cada nó:
 Todos os valores no subárvore esquerda são menores que o valor do nó.
